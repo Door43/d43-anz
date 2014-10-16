@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anz:home|Door43 (anz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anz|d43-anz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anz/archive/master.zip|d43-anz.zip]]
+
+**Recent Changes**
+{{changes>ns = anz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anz|Ethnologue data]]
+
